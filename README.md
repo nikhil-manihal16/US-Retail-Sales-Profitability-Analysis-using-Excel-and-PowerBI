@@ -179,6 +179,23 @@ Analyze:
 * **Highest Return Rate among Top 10:** Arizona — **8.80%**
 * **Lowest Return Rate among Top 10:** Tennessee — **5.68%**
 
+# City-Level Analysis
+* Top 5 Cities by Sales
+* Top 5 Cities by Profit
+* Cities-wise Orders
+* Cities-wise Return Rate
+
+|  Rank | City            | Orders |        Sales |  Profit | Return Rate |
+| ----: | --------------- | -----: | -----------: | ------: | ----------: |
+| **1** | **Minneapolis** |    256 | **$193.31K** | $55.93K |   **6.64%** |
+| **2** | **Kansas City** |    256 | **$193.02K** | $55.90K |   **7.81%** |
+| **3** | **Houston**     |    267 | **$190.34K** | $55.48K |   **8.61%** |
+| **4** | **Buffalo**     |    259 | **$190.19K** | $56.38K |   **8.88%** |
+| **5** | **Milwaukee**   |    269 | **$188.44K** | $55.23K |   **8.18%** |
+
+* **Highest Sales City / Profit:** Minneapolis — **$193.31K**
+* **Highest Return Rate:** Buffalo — **8.88%**
+
 
 # 💳 Payment Method Analysis
 | Payment Method | Orders |  Sales |
