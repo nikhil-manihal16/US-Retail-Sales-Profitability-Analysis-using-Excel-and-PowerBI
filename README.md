@@ -155,18 +155,30 @@ Analyze:
 * Top 10 States by Profit
 * State-wise Orders
 * State-wise Return Rate
-* State-wise Profit Margin
 
-**Top States by Sales**
-| State      |    Sales |   Profit |
-| ---------- | -------: | -------: |
-| California | $663.14K | $196.25K |
-| Texas      | $538.21K | $159.04K |
-| New York   | $537.07K | $159.09K |
-| Florida    | $491.68K | $148.38K |
-| Virginia   | $354.03K | $103.45K |
+**Top States by Sales / Profit**
 
-California is the highest-sales state in this dataset.
+|   Rank | State            | Orders |        Sales |   Profit | Return Rate |
+| -----: | ---------------- | -----: | -----------: | -------: | ----------: |
+|  **1** | **California**   |    964 | **$663.14K** | $196.25K |   **6.64%** |
+|  **2** | **Texas**        |    785 | **$538.21K** | $159.04K |   **6.37%** |
+|  **3** | **New York**     |    753 | **$537.07K** | $159.09K |   **7.70%** |
+|  **4** | **Florida**      |    756 | **$491.68K** | $148.38K |   **6.88%** |
+|  **5** | **Virginia**     |    514 | **$354.03K** | $103.45K |   **7.39%** |
+|  **6** | **Tennessee**    |    528 | **$347.08K** | $104.88K |   **5.68%** |
+|  **7** | **Arizona**      |    500 | **$334.93K** |  $98.74K |   **8.80%** |
+|  **8** | **Washington**   |    499 | **$332.36K** |  $99.83K |   **6.61%** |
+|  **9** | **Ohio**         |    513 | **$329.19K** |  $97.36K |   **8.38%** |
+| **10** | **Pennsylvania** |    489 | **$323.02K** |  $95.92K |   **7.77%** |
+
+
+* **Highest Sales State:** California — **$663.14K**
+* **Lowest among Top 10:** Pennsylvania — **$323.02K**
+* **Highest Profit State:** California — **$196.25K**
+* **Lowest among Top 10:** Pennsylvania — **$95.92K**
+* **Highest Return Rate among Top 10:** Arizona — **8.80%**
+* **Lowest Return Rate among Top 10:** Tennessee — **5.68%**
+
 
 # 💳 Payment Method Analysis
 | Payment Method | Orders |  Sales |
