@@ -55,7 +55,7 @@ The main objective of this project is to understand overall business performance
   
 Furniture is second with **$1.31M sales.**
 
-# Profitability Analysis
+# 📈 Profitability Analysis
 Category-wise margin:
 | Category        |    Sales |   Profit | Margin |
 | --------------- | -------: | -------: | -----: |
@@ -69,7 +69,7 @@ Category-wise margin:
 
 **Electronics generates the highest sales and profit**, while categories such as Clothing and Accessories have higher profit margins.
 
-# Product Performance Analysis
+# 📦 Product Performance Analysis
 Analyze:
 * Top Products by Sales
 * Top Products by Profit
@@ -93,7 +93,7 @@ Analyze:
 | TV           | LG            | $379.49K | $105.98K |
 
 
-# Regional Analysis
+# 🌎 Regional Analysis
 Analyze:
 * Sales by Region
 * Profit by Region
@@ -129,7 +129,7 @@ Analyze:
 
 California is the highest-sales state in this dataset.
 
-# Payment Method Analysis
+# 💳 Payment Method Analysis
 | Payment Method | Orders |  Sales |
 | -------------- | -----: | -----: |
 | Credit Card    |  3,207 | $2.19M |
@@ -142,7 +142,7 @@ California is the highest-sales state in this dataset.
 **Key Finding**
 **Credit Card** is the most frequently used payment method and generates the highest sales.
 
-# Return Analysis
+# 🔄 Return Analysis
 | Metric               |  Value |
 | -------------------- | -----: |
 | Total Orders         | 10,000 |
@@ -162,7 +162,7 @@ California is the highest-sales state in this dataset.
 | Office          |   **3.90%** |
 
 
-# Gender Analysis
+# 👥 Gender Analysis
 | Gender     | Orders |  Sales |   Profit |
 | ---------- | -----: | -----: | -------: |
 | Non-binary |  3,512 | $2.40M | $707.52K |
