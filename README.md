@@ -178,8 +178,7 @@ California is the highest-sales state in this dataset.
 | Bank Transfer  |    690 |  $479K |
 | Cash           |    441 |  $295K |
 
-**Key Finding**
-**Credit Card** is the most frequently used payment method and generates the highest sales.
+* **Credit Card** is the most frequently used payment method and generates the highest sales.
 
 # 🔄 Return Analysis
 | Metric               |  Value |
@@ -202,12 +201,16 @@ California is the highest-sales state in this dataset.
 
 
 # 👥 Gender Analysis
-| Gender     | Orders |  Sales |   Profit |
-| ---------- | -----: | -----: | -------: |
-| Non-binary |  3,512 | $2.40M | $707.52K |
-| Female     |  3,306 | $2.23M | $661.11K |
-| Male       |  3,182 | $2.13M | $635.22K |
 
+| Gender         | Orders |  Sales |   Profit | Return Rate | Average Order Value |
+| -------------- | -----: | -----: | -------: | ----------: | ------------------: |
+| **Non-Binary** |  3,512 | $2.40M | $707.52K |   **7.12%** |         **$683.37** |
+| **Female**     |  3,306 | $2.23M | $661.11K |   **7.14%** |         **$674.53** |
+| **Male**       |  3,182 | $2.13M | $635.22K |   **7.35%** |         **$669.39** |
+
+* **Highest Return Rate:** Male — **7.35%**
+* **Lowest Return Rate:** Non-Binary — **7.12%**
+* **Highest AOV:** Non-binary — **$683.37 per order**.
 
 
 
