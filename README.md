@@ -148,7 +148,7 @@ Analyze:
 
 
 
-# State-Level Analysis
+# 🗺️ State-Level Analysis
 Analyze:
 
 * Top 10 States by Sales
@@ -179,7 +179,7 @@ Analyze:
 * **Highest Return Rate among Top 10:** Arizona — **8.80%**
 * **Lowest Return Rate among Top 10:** Tennessee — **5.68%**
 
-# City-Level Analysis
+# 🏙️ City-Level Analysis
 * Top 5 Cities by Sales
 * Top 5 Cities by Profit
 * Cities-wise Orders
@@ -228,6 +228,34 @@ Analyze:
 | Clothing        |       6.13% |
 | Office          |   **3.90%** |
 
+# Customer Analysis
+| Metric                     |                   Result |
+| -------------------------- | -----------------------: |
+| **Total Customers**        |                **1,073** |
+| **Total Orders**           |               **10,000** |
+| **Orders per Customer**    |                 **9.32** |
+| **Sales per Customer**     |               **$6.30K** |
+| **Average Customer Value** |               **$6.30K** |
+| **Average Order Value**    |              **$675.88** |
+| **Repeat Customers**       |       **1,043 (97.20%)** |
+| **One-Time Customers**     |           **30 (2.80%)** |
+| **Purchase Frequency**     | **9.32 orders/customer** |
+
+**Customer Segmentation**
+| Segment              | Customers | Customer Share | Avg Orders/Customer | Sales Contribution |
+| -------------------- | --------: | -------------: | ------------------: | -----------------: |
+| **One-Time**         |        30 |      **2.80%** |                1.00 |          **0.21%** |
+| **Occasional (2–5)** |       302 |     **28.15%** |                3.77 |         **11.14%** |
+| **Regular (6–10)**   |       369 |     **34.39%** |                7.89 |         **28.39%** |
+| **Loyal (11+)**      |       372 |     **34.67%** |               15.91 |         **60.27%** |
+
+Quick Insight
+* **1,073 unique customers** generated **10,000 orders**.
+* **97.20%** of customers are repeat customers.
+* **Loyal customers** (11+ orders) represent **34.67% of customers** but account for **60.27% of sales**.
+* **One-time customers** are only **2.80%** of customers and contribute **0.21% of sales**.
+* **Average Customer Value = $6.30K,** calculated as total sales ÷ unique customers.
+* **Average Order Value = $675.88.**
 
 # 👥 Gender Analysis
 
