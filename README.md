@@ -31,6 +31,26 @@ The main objective of this project is to understand overall business performance
 * Slicers & Filters
 * Business Dashboard
 
+# Data Dictionary
+## 📋 Dataset Columns
+
+| Column | Description |
+|---|---|
+| Order ID | Unique order identifier |
+| Order Date | Date of order |
+| Customer ID | Unique customer identifier |
+| Product | Product purchased |
+| Category | Product category |
+| Brand | Product brand |
+| Sales | Revenue generated |
+| Cost | Product/order cost |
+| Profit | Sales - Cost |
+| Return Status | Returned / Not Returned |
+| Payment Method | Payment method used |
+| State | Customer state |
+| City | Customer city |
+
+
 # Overall Business Summary
 |                     |                         |
 | ------------------- | ----------------------: |
@@ -100,7 +120,8 @@ The main objective of this project is to understand overall business performance
 | **Footwear**        |       615 |      $75.75K |   $125.05K |      $49.30K | **39.42%** |   **6.18%** | Good Margin                 |
 | **Office**          |       282 |      $80.77K |   $104.94K |      $24.17K | **23.03%** |   **3.90%** | Lowest Sales & Margin       |
 
-* **Electronics** is the dominant category:
+Profit Margin = Total Profit / Total Sales × 100
+
 * **Electronics generates the highest sales and profit**, while categories such as Clothing and Accessories have higher profit margins.
 * **Furniture** is second with **$1.31M sales.**
 
@@ -234,6 +255,8 @@ Analyze:
 | Return Rate          |  7.20% |
 | Returned-Order Sales | ~$495K |
 
+Return Rate = Returned Orders / Total Orders × 100
+
 **Return Rate by Category**
 | Category        | Return Rate |
 | --------------- | ----------: |
@@ -257,6 +280,9 @@ Analyze:
 | **Repeat Customers**       |       **1,043 (97.20%)** |
 | **One-Time Customers**     |           **30 (2.80%)** |
 | **Purchase Frequency**     | **9.32 orders/customer** |
+
+* Average Order Value = Total Sales / Total Orders
+* Average Customer Value = Total Sales / Unique Customers
 
 **Customer Segmentation**
 | Segment              | Customers | Customer Share | Avg Orders/Customer | Sales Contribution |
@@ -286,6 +312,12 @@ Quick Insight
 * **Lowest Return Rate:** Non-Binary — **7.12%**
 * **Highest AOV:** Non-binary — **$683.37 per order**.
 
+# Business Recommendations
+* Electronics has the highest sales/profit contribution, so inventory availability should be closely monitored.
+* Home Appliances has an 8.00% return rate, so return reasons should be investigated.
+* Loyal customers contribute 60.27% of sales, making customer retention an important business area.
+* TV–Samsung has a relatively high return rate of 9.12%, so product/quality/return reasons should be investigated.
+* California generates the highest sales among the listed states.
 
 
 
