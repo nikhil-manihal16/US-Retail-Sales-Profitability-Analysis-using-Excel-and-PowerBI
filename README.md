@@ -14,6 +14,23 @@ The main objective of this project is to understand overall business performance
 * 🔄 Return patterns
 * 💳 Payment-method trends
 
+# 🛠️ Tools & Technologies
+  **Excel**
+* Data Cleaning
+* Data Transformation
+* Pivot Tables
+* Pivot Charts
+* KPI Analysis
+* Interactive Dashboard
+
+**Power BI**
+* Power Query
+* DAX
+* KPI Cards
+* Interactive Visualizations
+* Slicers & Filters
+* Business Dashboard
+
 # Overall Business Summary
 |                     |                         |
 | ------------------- | ----------------------: |
@@ -272,5 +289,8 @@ Quick Insight
 
 
 
+# 👨‍💻 Author
 
+**Nikhil Manihal**
 
+* Data Analytics | Excel | SQL | Python | Power BI | Business Intelligence | Data Visualization
