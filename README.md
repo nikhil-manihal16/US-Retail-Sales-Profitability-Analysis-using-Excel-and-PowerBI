@@ -325,4 +325,4 @@ Quick Insight
 
 **Nikhil Manihal**
 
-* Data Analytics | Excel | SQL | Python | Power BI | Business Intelligence | Data Visualization
+* Data Analytics | Excel | SQL | Python | Power BI | Business Intelligence | Data Visualization | ChatGPT
